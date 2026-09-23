@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "93f7862538b9b43d56cba101",
+  "owner": "erjwrgjj",
+  "repo": "page-6141714b7a0f264666643c94",
+  "title": "SSHUB",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6141714b7a0f264666643c94",
+      "a": "SSHUB",
+      "b": "机场官网线路发布页",
+      "entity": "SSHUB",
+      "brand": "SSHUB",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "58e61c3dceedbf8eca046f530057060dda2320c3087678fda83d5cc25a723044",
+      "content": {
+        "primary_entity": "SSHUB",
+        "keyword1": "SSHUB",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按操作系统选择适配客户端：Windows 用 Clash Verge，macOS 用 ClashX，iOS 用 Shadowrocket，Android 用 v2rayNG。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "在 SSHUB 中按设备数量与流量需求选择套餐，随即开始配置订阅。",
+          "AI_CLOSING_TITLE": "选好套餐即刻使用",
+          "AI_DESCRIPTION": "，SSHUB 提供基础版、旗舰版与团队版三档套餐，分别支持 3 台、5 台与 20 台设备同时在线。基础版每月 100GB 流量，旗舰版每月 300GB 并含 IPLC 专线游戏加速与流媒体解锁，团队版每月 1000GB 配 VIP 高带宽节点。按年付可享基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台。家庭使用建议基础版或旗舰版，小型团队可选团队版。",
+          "AI_FAQ_ANSWER_2": "旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的场景；团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FAQ_ANSWER_3": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。按年付分别仅需 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_4": "选择套餐后，在对应客户端中添加订阅链接即可。Clash 系客户端导入配置，Shadowrocket 与 v2rayNG 粘贴订阅地址更新。",
+          "AI_FAQ_ANSWER_5": "基础版解锁基础流媒体，旗舰版覆盖全节点原生流媒体解锁，团队版提供 VIP 专属高带宽节点。",
+          "AI_FAQ_INTRO": "套餐区别、设备数量、流量与订阅配置。",
+          "AI_FAQ_QUESTION_1": "不同套餐支持的设备数量分别是多少？",
+          "AI_FAQ_QUESTION_2": "游戏加速选哪一档套餐更合适？",
+          "AI_FAQ_QUESTION_3": "各套餐每月流量和年付价格如何？",
+          "AI_FAQ_QUESTION_4": "购买后如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_5": "流媒体解锁能力在各套餐间有何差异？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "对比三档套餐的流量、设备数与线路特性，快速定位适合自己的一档。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数量对号入座。",
+          "AI_FEATURE_TEXT_2": "从每月 100GB 到 1000GB，轻量浏览、流媒体与团队协作各有对应档位。",
+          "AI_FEATURE_TEXT_3": "年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用更省。",
+          "AI_FEATURE_TITLE_1": "按设备数选择",
+          "AI_FEATURE_TITLE_2": "按流量选择",
+          "AI_FEATURE_TITLE_3": "按周期选择",
+          "AI_GUIDE_INTRO": "三步完成 SSHUB 订阅配置：先选套餐，再确认设备适配，最后按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "SSHUB 提供基础版、旗舰版与团队版三档订阅，覆盖 3 至 20 台设备、每月 100GB 至 1000GB 流量，旗舰版含 IPLC 专线游戏加速与全节点原生流媒体解锁，团队版提供 VIP 高带宽节点与企业定制路由。",
+          "AI_HERO_SUBTITLE": "三档套餐，按设备与流量灵活选择",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，IPLC 游戏加速",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，20 台设备",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版兼顾流媒体与游戏加速，团队版面向多设备与高流量需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、每月流量与预算，在基础版、旗舰版、团队版中选择一档。",
+          "AI_STEP_TEXT_2": "确认常用设备的操作系统，准备好对应的 Clash、Shadowrocket 或 v2rayNG 客户端。",
+          "AI_STEP_TEXT_3": "在客户端中按订阅配置文档导入地址，更新节点后即可连接。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "SSHUB 按需选套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "00ah6.cn",
+    "host": "00ah6.cn"
+  },
+  "file_hashes": {
+    "index.html": "fa95db20cf04b4faab670a1a30505576de43b499988c23688817c726b36c4c70",
+    "sitemap.xml": "4b1eacf47b070d8fed76e2bebf082b62e6461bf51b163b6e7d0395ea81cd020d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ea4103069a79a64e00ee28fe027ac229670fec4d36a3574fd6b9844b50d983a1",
+    "robots.txt": "6d123afc15a9b86c5d2e042c0acd6046c27727030a9b4b6c8709db6bcddaa52e",
+    "2f95cad6a4015884621329ef1b278da5.txt": "de97d0ca1b9260d69449deff83998edfd4c35b0c1c87456dae370c00bcaa2937"
+  },
+  "revision": "11f71a598ca2da4057b5c2991d414c77b693b3b894b2579262f5df68efc1e1b7"
+}
